@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /application/
+Disallow: /core/
+Disallow: /documents/
+Disallow: /files/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /templates/

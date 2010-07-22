@@ -1,0 +1,105 @@
+.php span.xtra { display:block; }
+#main pre {
+	line-height: 1.5em;
+	font-size: 10px;
+	white-space: normal;
+	padding: 0;
+	background: #222223;
+	border: 1px solid #222;
+}
+pre ol {
+	list-style: decimal;
+	list-style-position: outside;
+	padding: 0;
+	margin: 0;
+}
+#main pre ol li {
+	margin: 0 0 0 35px;
+	padding: 0;
+	color: #000;
+	clear: none;
+}
+pre ol li div {
+	color:#f8f8f8;
+}
+
+/* Line highlights */
+.li1 {
+	background: #202021;
+}
+
+
+/* comments */
+.co1,
+.coMULTI {
+	color:#5F5A60;	
+}
+/* methods */
+.me1{
+	color:#fff;
+}
+.me0 {	
+
+}
+.me2 {	
+	color:#000;
+}
+
+/* brackets */
+.br0 {
+	color:#fff;
+}
+
+/* strings */
+.st0 {
+	color:#8F9657;
+}
+
+/* keywords */
+.kw1 {
+	color: #CDA869;
+}
+.kw2 {
+	color:#F9EE98;		
+}
+
+.kw3 {
+	color:#505e80;
+}
+
+/* numbers */
+.nu0 {
+	color:#CF6745;
+}
+
+/* vars */
+.re0 {
+	color:#7587A6;
+}
+
+
+/* 
+* CSS selectors 
+*****************/
+/* classnames */
+
+[lang=css] .kw2,
+.css .kw2 {
+	color:#F9EE7E;
+}
+.re1 {
+	color: #96703D;
+}
+/* px values */
+[lang=css] .re3,
+.css .re3 {
+	color:#CA7840;
+}
+
+/*
+* Javascript
+****************/
+[lang=javascript] .me1,
+.javascript .me1 {
+	color:#505e80;
+}
