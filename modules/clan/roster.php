@@ -10,6 +10,7 @@ $query = $DB->query($getclanmembers);
 foreach($query as $r)
 {
 
+   $roster_id         	=	$r["id"];
 	$roster_displayname	=	$r["displayname"];
 	$roster_age			   =	$r["age"];
 	$roster_avatar			=	$r["avatar"];
@@ -20,6 +21,7 @@ foreach($query as $r)
 	$roster_url			   =	$r["url"];
 
 	$t_ = array(
+	   'ROSTER_ID' 		   => $roster_id,
 		'ROSTER_NAME' 		   => $roster_displayname,
 		'ROSTER_AGE' 		   => $roster_age,
 		'ROSTER_AVATAR' 	   => "<img src=\"".$roster_avatar."\" />",

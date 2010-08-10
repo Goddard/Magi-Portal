@@ -7,7 +7,7 @@ $location = pathinfo(__FILE__, PATHINFO_BASENAME);
 
 $case = array('newsview', 'news', 'scripts', 'scriptview', 'user', 'newsadd', 'newsedit', 'newsdelete', 'configuration',
 'newsprint', 'page', 'pageadd', 'pageedit', 'pagedelete', 'userpanel', 'roster', 'register', 'login', 'contact', 'pageprint', 
-'members', 'error'
+'members', 'error', 'profile'
 );
 
 if(!isset($_GET['page']) || empty($_GET['page']) || !in_array($_GET['page'], $case))
@@ -25,7 +25,7 @@ if($_GET['page'] != "newsprint" && $_GET['page'] != "pageprint")
 }
 
 
-if($_GET['page']==$configuration->config_values['application']['default_action'])
+if($_GET['page'] == $configuration->config_values['application']['default_action'])
 {
 
 	$TEMPLATE->load("index_header.tpl");
@@ -84,6 +84,10 @@ switch($_GET['page'])
 	case 'members':
 		include("modules/user/members.php");
 		break;
+		
+	case 'profile':
+		include("modules/user/profile.php");
+		break;		
 //guest switch end -
 
 //user switch start +

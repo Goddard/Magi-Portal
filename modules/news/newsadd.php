@@ -6,7 +6,7 @@ defined('LOAD_SAFE') or die('Server Error');
 
 include("application/language/".$language."/news.lang.php");
 
-if($_SESSION['userlevel']>=200 && !isset($_REQUEST['Submit']) && !isset($_REQUEST['logout']))
+if($_SESSION['userlevel'] >= 200 && !isset($_REQUEST['Submit']) && !isset($_REQUEST['logout']))
 {
 
 	$newscategoryoptions = "";
@@ -38,21 +38,19 @@ if($_SESSION['userlevel']>=200 && !isset($_REQUEST['Submit']) && !isset($_REQUES
 	$TEMPLATE->assign($t_);
 	$TEMPLATE->publish();
 
-}elseif($_SESSION['userlevel']>=200 && isset($_REQUEST['Submit']) && !isset($_REQUEST['logout']))
+}elseif($_SESSION['userlevel'] >= 200 && isset($_REQUEST['Submit']) && !isset($_REQUEST['logout']))
 {
 
-		$title = $_POST['title'];
-		$message = $_POST['message'];
-		$category = $_POST['category'];
+		$title       = $_POST['title'];
+		$message     = $_POST['message'];
+		$category    = $_POST['category'];
 		$commentable = $_POST['commentable'];
-		$userid  = $_SESSION['uid']; 
+		$userid      = $_SESSION['uid']; 
       
-      //$message = htmlentities($message, ENT_QUOTES);
-      //$message = mysql_real_escape_string($message);
+      $sql1 = "INSERT INTO news (title, category, message, date, author, ip, commentable)VALUES(?, ?, ?, ?, ?, ?, ?)";
+		$query1 = $DB->prepare($sql1) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
+      $query1->execute(array($title, $category, $message, $date_time, $userid, $ip, $commentable));
       
-		$sql = "INSERT INTO news (title, category, message, date, author, ip, commentable)VALUES('$title', '$category', '$message', '$date_time', '$userid', '$ip', '$commentable')";
-		$DB->query($sql) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
-
 		//dirty fast version probably wont work with all browsers and server settings
 		$post_id = $DB->lastInsertId();
 		header('Location: ?page=newsview&newsid='.$post_id);

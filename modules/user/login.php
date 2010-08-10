@@ -11,7 +11,7 @@ if(!isset($_POST['number'], $_SESSION['key'])){
 }
 
 //make sure the login form hasn't been submitted and the user isn't trying to logout.
-if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !isset($_GET['logout']) && $_SESSION['logged']!='true'){
+if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !isset($_GET['logout']) && $_SESSION['logged'] != 'true'){
 
 //define template variables
 	$t_ = array(
@@ -41,7 +41,7 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['numbe
 	$username = $_POST['name'];
 	$password = md5($_POST['password']);
 
-		//check if username exsists and is active
+	//check if username exsists and is active
 	$sql1 = "SELECT * FROM users WHERE username=? AND password=? AND active=?";
 	$query1 = $DB->prepare($sql1) or trigger_error($lang_error['SELECT_ERROR'], E_USER_ERROR);
 	$query1->execute(array($username, $password, '1'));
@@ -49,7 +49,7 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['numbe
 
 		//If no username or inactive display warm fuzzy message.
 	if(($userfound != 1) || $_REQUEST['number'] != substr($_SESSION['key'],0,7)){
-		
+
 		$t_ = array(
 			'USERTIP' 				      => $lang['usernametip'],
 			'PASSTIP' 				      => $lang['passwordtip'],
@@ -91,8 +91,8 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['numbe
 		}
 
 		$sql2 = "UPDATE users SET logintime=?, iplog = CONCAT(iplog, ?) WHERE id=? AND iplog NOT LIKE ?";
-		$query2 = $DB->prepare($sql2) or die("wrong");//trigger_error($lang_error['UPDATE_ERROR'],E_USER_ERROR);
-      $query2->execute(array($date_time, $ip ."':'", $id, "'%'". $ip ."'%'")) or die("wrong");
+		$query2 = $DB->prepare($sql2) or trigger_error($lang_error['UPDATE_ERROR'],E_USER_ERROR);
+      $query2->execute(array($date_time, $ip ."':'", $id, "'%'". $ip ."'%'"));
 
 		$t_ = array(
 			'LOGIN_FORM_TITLE' 		=> $lang['logform'],

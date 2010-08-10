@@ -69,7 +69,7 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['email'], $_POST['password
 	$userfound = $query1->rowCount();
 	
 //check if email exsists
-	$sql2 = "SELECT * FROM users WHERE email='$email'";
+	$sql2 = "SELECT * FROM users WHERE email=?";
 	$query2 = $DB->prepare($sql2) or trigger_error($lang_error['SELECT_ERROR'], E_USER_ERROR);
 	$query2->execute(array($email));
 	$emailfound = $query2->rowCount();
@@ -112,7 +112,7 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['email'], $_POST['password
 	}
 
    $sql3 = "INSERT INTO vault (username, displayname, password, passwordmd5, email, creationdate, ip)VALUES(?, ?, ?, ?, ?, ?, ?)";
-   $query3 = $DB->prepare($sql1) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
+   $query3 = $DB->prepare($sql3) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
    $query3->execute(array($username, $codename, $password, $passwordmd5, $email, $date_time, $ip));
    
 	$sql4 = "INSERT INTO users (username, displayname, password, email, creationdate, iplog, active, code)VALUES(?, ?, ?, ?, ?, ?, ?, ?)";

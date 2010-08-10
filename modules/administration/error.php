@@ -1,15 +1,10 @@
 <?php
-//File ok to load directly here
-define('LOAD_SAFE', true);
+////////////////////////////////////
+// page load security
+////////////////////////////////////
+defined('LOAD_SAFE') or die('Server Error');
 
-require_once 'root.php';
-
-$location = pathinfo(__FILE__, PATHINFO_BASENAME);
-
-include("header.php");
-
-
-if($_SESSION['userlevel']==255 && !isset($_GET['logout']) && !isset($_GET['cleanerror']))
+if($_SESSION['userlevel'] == 255 && !isset($_GET['logout']) && !isset($_GET['cleanerror']))
 {
 
 	$readlog = $error->readerrorlog();
@@ -22,7 +17,7 @@ if($_SESSION['userlevel']==255 && !isset($_GET['logout']) && !isset($_GET['clean
 		
 	}else{
 	
-		$clearloglink = "<a href=\"error.php?cleanerror\">Clear Error Log</a>";
+		$clearloglink = "<a href=\"index.php?page=error&cleanerror\">Clear Error Log</a>";
 		
 	}
 
@@ -31,7 +26,7 @@ if($_SESSION['userlevel']==255 && !isset($_GET['logout']) && !isset($_GET['clean
 		'ERROR_CLEAR' 			=> $clearloglink,
 	);
 
-}elseif($_SESSION['userlevel']==255 && isset($_GET['cleanerror']))
+}elseif($_SESSION['userlevel'] == 255 && isset($_GET['cleanerror']))
 {
 
 	$clearlog = $error->clearerrorlog();
@@ -50,9 +45,7 @@ if($_SESSION['userlevel']==255 && !isset($_GET['logout']) && !isset($_GET['clean
 	
 }
 
-	$TEMPLATE->load("error.tpl");
-	$TEMPLATE->assign($t_);
-	$TEMPLATE->publish();
-
-include("footer.php");
+$TEMPLATE->load("error.tpl");
+$TEMPLATE->assign($t_);
+$TEMPLATE->publish();
 ?>

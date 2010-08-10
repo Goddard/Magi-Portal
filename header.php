@@ -28,12 +28,12 @@ foreach($query_1 as $r)
 
 	if($user_time_calc <= $timeout_calc && $stay_logged == 0)
 	{
-		
+
 		$sql_2 = "DELETE FROM sessions WHERE ip='$ip2'";
 		$DB->query($sql_2) or trigger_error($lang_error['DELETE_ERROR'], E_USER_ERROR);
-		
+
 	}
-	
+
 }
 
 //if username changes and ip doesn't match user logged in delete old guest session
