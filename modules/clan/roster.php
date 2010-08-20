@@ -29,7 +29,8 @@ foreach($query as $r)
 		'ROSTER_OCCUPATION' 	=> $roster_occupation,
 		'ROSTER_SIGNATURE' 	=> $roster_signature,
 		'ROSTER_BIOGRAPHY' 	=> $roster_biography,
-		'ROSTER_URL' 		   => "http://" . $roster_url
+		'ROSTER_URL' 		   => "http://" . $roster_url,
+		'ROSTER_PM' 		   => "index.php?page=userpanel&user=sendmessage&userid=$roster_id"
 	);
 
 	$TEMPLATE->load("roster.tpl");

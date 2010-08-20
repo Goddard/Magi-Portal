@@ -36,7 +36,7 @@
 		<a href="index.php?page=page&name=portfolio"><span>Portfolio</span></a>		
 		<a href="index.php?page=contact"><span>Contact</span></a>
 		<a href="index.php?page=news&newscategory=4"><span>Tutorials</span></a>
-		<a href="http://www.bugs.kinggoddard.com/main_page.php"><span>Bugs</span></a>
+		<a href="http://bugs.kinggoddard.com/main_page.php"><span>Bugs</span></a>
 		<a href="index.php?page=roster"><span>Team</span></a>
 	</div><br /><br />
 

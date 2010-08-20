@@ -57,7 +57,7 @@
 			
 			   <span class="menusmall">
 			   
-			      <a href="{ROSTER_PM}" target=_new>PM</a>
+			      <a href="{ROSTER_PM}">PM</a>
 			      
 			   </span>
 			   

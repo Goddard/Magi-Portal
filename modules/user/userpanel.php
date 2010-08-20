@@ -4,7 +4,7 @@ defined('LOAD_SAFE') or die('Server Error');
 if($_SESSION['logged'] == true)
 {
 
-   $usercase = array('statistics', 'required', 'personalize', 'messages', 'messagesdelete');
+   $usercase = array('statistics', 'required', 'personalize', 'messages', 'messagesdelete', 'sendmessage');
    
    if(!isset($_GET['user']) || empty($_GET['user']) || !in_array($_GET['user'], $usercase))
    {
@@ -33,6 +33,11 @@ if($_SESSION['logged'] == true)
 	   case 'messages':
 		   include("modules/user/messages.php");
 		   break;
+		   
+	   case 'sendmessage':
+		   include("modules/user/reply.php");
+		   break;   
+		   
 		   
 	   case 'messagesdelete':
 		   include("modules/user/messagesdelete.php");
