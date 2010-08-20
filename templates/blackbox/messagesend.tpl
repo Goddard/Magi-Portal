@@ -1,17 +1,35 @@
 	<div class="content">
 
 		<div class="item">
-			<h1>{NEWS_ADD_TITLE}</h1>
-			<cite>{NEWS_ADD_SUB_TITLE}</cite>
-			<form onsubmit="instance.post();" method="post" action="index.php?page=newsadd">
+		
+			<h1>
+			
+			   {PM_SEND_TITLE}
+			   
+			</h1>
+			
+			<cite>
+			
+			   {PM_SEND_SUB_TITLE}
+			   
+			</cite>
+			
+			<form onsubmit="instance.post();" method="post" action="index.php?page=userpanel&user=sendmessage">
+
+         <input type="hidden" name="replyid" value="{USERID}" />
 
 			<ul>
+			
 				<li>
-					{TITLE}:* <br /><input type="text" name="title" /><p class="instruct"><small>This headline will be displayed along with your news posting in links across the site.</small></p>
+				
+					{PM_SUBJECT}:* <br /><input type="text" name="subject" /><p class="instruct"><small>This headline will be displayed along with your news posting in links across the site.</small></p>
+				
 				</li>
 
 				<li>
-					{MESSAGE}:* <br /><textarea id="input" name="message" style="width:500px; height:200px;"></textarea>
+				
+					{PM_MESSAGE}:* <br /><textarea id="input" name="message" style="width:500px; height:200px;"></textarea>
+					
 <script type="text/javascript"> 
 var instance = new TINY.editor.edit('editor',{
 	id:'input',
@@ -39,8 +57,11 @@ var instance = new TINY.editor.edit('editor',{
 				</li>
 
 			</ul>
+			
 			<input type="submit" name="Submit" value="{SUBMIT}"> <input type="reset" value="{RESET}">
+			
 			</form > 
+			
 		</div>
 
 		<span class="right"><small>{REQUIRED}</small></span>

@@ -4,9 +4,7 @@
 ////////////////////////////////////
 defined('LOAD_SAFE') or die('Server Error');
 
-include("application/language/".$language."/news.lang.php");
-
-if($_SESSION['logged'] == true && !isset($_REQUEST['Submit']) && !isset($_REQUEST['logout']) && is_numeric($_GET['userid']))
+if($_SESSION['logged'] == true && !isset($_REQUEST['Submit']) && !isset($_REQUEST['logout']) && is_numeric($_GET['userid']) && !isset($_POST['replyid']))
 {
 
    $user_id = $_GET['userid'];
@@ -17,7 +15,14 @@ if($_SESSION['logged'] == true && !isset($_REQUEST['Submit']) && !isset($_REQUES
    if($usercount != 0){
 
 	   $t_ = array(
-		   'NEWS_ADD_TITLE' 	      => "send message"
+		   'PM_SEND_TITLE' 	      => "Private Message",
+		   'PM_SEND_SUB_TITLE' 	   => "Send a message to a individual user or group.",
+		   'PM_SUBJECT' 	         => "Subject",
+		   'PM_MESSAGE' 	         => "Message",
+		   'USERID'    	         => $user_id,
+		   'REQUIRED' 	            => $lang['require'],
+		   'SUBMIT' 	            => $lang['submit'],
+		   'RESET' 	               => $lang['reset'],
 	   );
 
 	   $TEMPLATE->load("messagesend.tpl");
@@ -36,22 +41,27 @@ if($_SESSION['logged'] == true && !isset($_REQUEST['Submit']) && !isset($_REQUES
 	
 	}
 
-}elseif($_SESSION['logged'] == true && isset($_POST['Submit']) && !isset($_REQUEST['logout']) && is_numeric($_POST['userid']) && $_POST['userid'] != 0)
+}elseif($_SESSION['logged'] == true && isset($_POST['Submit']) && !isset($_REQUEST['logout']) && is_numeric($_POST['replyid']) && $_POST['replyid'] != 0)
 {
 
-   $title       = $_POST['title'];
+   $subject     = $_POST['subject'];
    $message     = $_POST['message'];
-   $category    = $_POST['category'];
-	$commentable = $_POST['commentable'];
-	$userid      = $_SESSION['uid']; 
+	$replyid     = $_POST['replyid'];
+	$userid      = $_SESSION['uid'];      
       
-   $sql1 = "INSERT INTO news (title, category, message, date, author, ip, commentable)VALUES(?, ?, ?, ?, ?, ?, ?)";
+   $sql1 = "INSERT INTO messages (pid, rid, date, subject, message)VALUES(?, ?, ?, ?, ?)";
 	$query1 = $DB->prepare($sql1) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
-   $query1->execute(array($title, $category, $message, $date_time, $userid, $ip, $commentable));
+   $query1->execute(array($userid, $replyid, $date_time, $subject, $message));
       
-	//dirty fast version probably wont work with all browsers and server settings
-	$post_id = $DB->lastInsertId();
-	header('Location: ?page=newsview&newsid='.$post_id);
+	   $t_ = array(
+		   'MESSAGE_HEADING' 	      => "Message Sent",
+		   'MESSAGE_DESCRIPTION' 	   => "Private message was sent.",
+		   'MESSAGE' 	               => "Your private message was sent successfully."
+	   );
+
+	   $TEMPLATE->load("message.tpl");
+	   $TEMPLATE->assign($t_);
+	   $TEMPLATE->publish();
 
 }else{
 
