@@ -5,13 +5,17 @@ $location = pathinfo(__FILE__, PATHINFO_BASENAME);
 
 include("application/language/".$language."/login.lang.php");
 
-if(!isset($_POST['number'], $_SESSION['key'])){
+if(!isset($_POST['number'], $_SESSION['key']))
+{
+
 	$_POST['number'] = NULL;
 	$_SESSION['key'] = NULL;
+	
 }
 
 //make sure the login form hasn't been submitted and the user isn't trying to logout.
-if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !isset($_GET['logout']) && $_SESSION['logged'] != 'true'){
+if(!isset($_POST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !isset($_GET['logout']) && $_SESSION['logged'] != 'true')
+{
 
 //define template variables
 	$t_ = array(
@@ -30,13 +34,12 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['numbe
 		'LOGIN_MESSAGE'				=> $lang['login'],
 		'SPAM'						   => $lang['spam'],
 		'REGISTRATION_PAGE'			=> "<a href=index.php?page=register>Register</a>",
-		);
+	);
 
 	$TEMPLATE->load("login.tpl");
 	$TEMPLATE->assign($t_);
 	$TEMPLATE->publish();
-
-//if post data is set then make sure the email is valid and name and password inputs arent empty}elseif(isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !empty($_POST['name']) && !empty($_POST['password']) && !isset($_GET['logout']) && $_SESSION['logged']!='true'){
+}elseif(isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !empty($_POST['name']) && !empty($_POST['password']) && !isset($_GET['logout']) && $_SESSION['logged']!='true'){
 
 	$username = $_POST['name'];
 	$password = md5($_POST['password']);
@@ -100,23 +103,7 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['numbe
 			'LOGIN_MESSAGE' 		   => $lang['logsuccess']."<meta http-equiv=\"Refresh\" content=\"2; URL=index.php?page=userpanel\">"
 		);
 
-
-		//unset default session variables.  User is signing in.
-		unset($_SESSION['logged']);
-		unset($_SESSION['uid']);
-		unset($_SESSION['username']);
-		unset($_SESSION['cookie']);
-		unset($_SESSION['remember']);
-		unset($_SESSION['language']);
-		unset($_SESSION['timezone']);
-		unset($_SESSION['template']);
-		unset($_SESSION['userlevel']);
-		unset($_SESSION['warnlevel']);
-		unset($_SESSION['codename']);
-		unset($_SESSION['useragent']);
-		unset($_SESSION['email']);
-		//remove login captcha key
-		unset($_SESSION['key']);
+      session_unset();
 
 		//set the user session info from the database.
 		session_regenerate_id();
@@ -148,43 +135,8 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['numbe
 ////////////////////////////////////
 // Unset Session Variable
 ////////////////////////////////////
-	unset($_SESSION['logged']);
-	unset($_SESSION['uid']);
-	unset($_SESSION['username']);
-	unset($_SESSION['cookie']);
-	unset($_SESSION['remember']);
-	unset($_SESSION['language']);
-	unset($_SESSION['timezone']);
-	unset($_SESSION['template']);
-	unset($_SESSION['userlevel']);
-	unset($_SESSION['warnlevel']);
-	unset($_SESSION['activitylevel']);
-	unset($_SESSION['email']);
-	unset($_SESSION['key']);
-	unset($_SESSION['useragent']);
-	unset($_SESSION['codename']);
-
-////////////////////////////////////
-// Begin Session Variable Defaults
-////////////////////////////////////
-
-	if(!isset($_SESSION['logged'])){
-		$_SESSION['logged'] 		      = 'false';
-		$_SESSION['uid'] 			      = 0;
-		$_SESSION['username'] 		   = 'Guest';
-		$_SESSION['cookie'] 		      = 0;
-		$_SESSION['remember'] 		   = 'false';
-		$_SESSION['language'] 		   = $configuration->config_values['language']['default_language'];
-		$_SESSION['timezone'] 		   = $configuration->config_values['application']['timezone'];
-		$_SESSION['template'] 		   = $configuration->config_values['template']['default_template'];
-		$_SESSION['userlevel'] 		   = -1;
-		$_SESSION['warnlevel'] 		   = 0;
-		$_SESSION['ip'] 			      = $ip;
-		$_SESSION['activitylevel'] 	= 0;
-		$_SESSION['email'] 			   = NULL;
-	}
-
-	session_destroy();
+   session_destroy();
+   session_unset();
 
 	$t_ = array(
 		'LOGIN_FORM_TITLE' 		=> $lang['logform'],

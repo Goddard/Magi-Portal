@@ -309,42 +309,40 @@ if($ip != true)
 ////////////////////////////////////
 // Handle Session's
 ////////////////////////////////////
-if(!isset($_SESSION['userlevel']))
+function session_default()
 {
 
-	$_SESSION['logged'] 	   = 'false';
-	$_SESSION['uid'] 		   = 0;
-	$_SESSION['username'] 	= 'Guest';
-	$_SESSION['cookie'] 	   = 0;
-	$_SESSION['remember'] 	= 'false';
-	$_SESSION['language'] 	= $configuration->config_values['language']['default_language'];
-	$_SESSION['timezone'] 	= $configuration->config_values['application']['timezone'];
-	$_SESSION['template'] 	= $configuration->config_values['template']['default_template'];
-	$_SESSION['userlevel'] 	= -1;
-	$_SESSION['warnlevel'] 	= 0;
-	$_SESSION['ip'] 		   = $ip;
+	$_SESSION['logged'] 	         = 'false';
+	$_SESSION['uid'] 		         = 0;
+	$_SESSION['username'] 	      = 'Guest';
+	$_SESSION['cookie'] 	         = 0;
+	$_SESSION['remember'] 	      = 'false';
+	$_SESSION['language'] 	      = $configuration->config_values['language']['default_language'];
+	$_SESSION['timezone'] 	      = $configuration->config_values['application']['timezone'];
+	$_SESSION['template'] 	      = $configuration->config_values['template']['default_template'];
+	$_SESSION['userlevel'] 	      = -1;
+	$_SESSION['warnlevel'] 	      = 0;
+	$_SESSION['ip'] 		         = $ip;
+	$_SESSION['activitylevel'] 	= 0;
+	$_SESSION['email'] 			   = NULL;
+	
+}
+
+////////////////////////////////////
+// Begin Session Variable Defaults
+////////////////////////////////////
+if(!isset($_SESSION['userlevel']) || !isset($_SESSION['logged']))
+{
+
+   session_default();
 
 }
 
 if(isset($_SESSION['valid']) && $_SESSION['valid'] == 'false')
 {
 
-	unset($_SESSION['logged']);
-	unset($_SESSION['uid']);
-	unset($_SESSION['username']);
-	unset($_SESSION['cookie']);
-	unset($_SESSION['remember']);
-	unset($_SESSION['language']);
-	unset($_SESSION['timezone']);
-	unset($_SESSION['template']);
-	unset($_SESSION['userlevel']);
-	unset($_SESSION['warnlevel']);
-	unset($_SESSION['activitylevel']);
-	unset($_SESSION['email']);
-	unset($_SESSION['key']);
-	unset($_SESSION['useragent']);
-	unset($_SESSION['codename']);
-	unset($_SESSION['valid']);
+   session_destroy();
+   session_unset();
 	header('Location: index.php');
 
 }
@@ -361,11 +359,10 @@ $remember = $_SESSION['remember'];
 
 
 //define session timeout time
-$timeout = date("l, F jS Y g:i:s A", strtotime("-".$configuration->config_values['application']['session_timeout']));
+$timeout = date("l, F jS Y g:i:s A", strtotime("-" . $configuration->config_values['application']['session_timeout']));
 $timeout_calc = strtotime($timeout);
 
-
-if (isset($_SESSION['logged']) && $_SESSION['logged'] != 'false' && $_SESSION['useragent'] != $_SERVER['HTTP_USER_AGENT'])
+if(isset($_SESSION['logged']) && $_SESSION['logged'] != 'false' && $_SESSION['useragent'] != $_SERVER['HTTP_USER_AGENT'])
 {
 
 	session_destroy();
@@ -374,4 +371,83 @@ if (isset($_SESSION['logged']) && $_SESSION['logged'] != 'false' && $_SESSION['u
 }
 
 SECURITY($configuration->config_values['application']['debug'], $_SESSION['userlevel']);
+
+$sql_1 = "SELECT * FROM sessions";
+$query_1 = $DB->query($sql_1) or trigger_error($lang_error['SELECT_ERROR'], E_USER_ERROR);
+
+$countusers = $query_1->rowCount();
+
+foreach($query_1 as $r)
+{
+
+	$ip2			   =	$r['ip'];
+	$username2		=	$r['username'];
+  	$usertime		=	$r['time'];
+	$stay_logged	=	$r['logged'];
+
+	$user_time_calc = strtotime($usertime);
+
+	if($user_time_calc <= $timeout_calc && $stay_logged == 0)
+	{
+
+		$sql_2 = "DELETE FROM sessions WHERE ip='$ip2'";
+		$DB->query($sql_2) or trigger_error($lang_error['DELETE_ERROR'], E_USER_ERROR);
+		
+      session_destroy();
+      session_unset();
+
+	}
+
+}
+
+//if username changes and ip doesn't match user logged in delete old guest session
+if($username != $lang['guest'])
+{
+	
+	$sql_3 = "DELETE FROM sessions WHERE ip='$ip' AND username='" . $lang['guest'] . "'";
+	
+	$DB->query($sql_3) or trigger_error($lang_error['DELETE_ERROR'], E_USER_ERROR);
+	
+
+
+}
+
+//find out how many rows in db of same ip which is hopefully either 0 or 1 if everything worked right
+$sql_4 = "SELECT * FROM sessions WHERE ip='$ip'";
+
+$query_4 = $DB->query($sql_4) or trigger_error($lang_error['SELECT_ERROR'], E_USER_ERROR);
+
+$ipfound = $query_4->rowCount();
+
+//if none then user is new to website
+if($ipfound == 0)
+{
+	
+	$sql_5 = "INSERT INTO sessions (ip, username, time, location)VALUES('$ip', '$username', '$date_time', '$location')";
+
+	$DB->query($sql_5) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
+
+//if 1 then user has been here surfing already need to update location and time
+}elseif($ipfound == 1)
+{
+	$sql_6 = "UPDATE sessions SET username='$username', time='$date_time', location='$location' WHERE ip='$ip'";
+	
+	$DB->query($sql_6) or trigger_error($lang_error['UPDATE_ERROR'], E_USER_ERROR);
+	
+//if there are more then 2 ips found then something is wrong delete all and insert a fresh row.
+}elseif($ipfound >= 2)
+{
+
+	$sql_7 = "DELETE FROM sessions WHERE ip=$ip";
+	
+	$sql_8 = "INSERT INTO sessions (ip, username, time, location)VALUES('$ip', '$username', '$date_time', '$location')";
+	
+	$DB->query($sql_7,$sql_8) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
+
+//dont know what the heck happen
+}else{
+	
+	trigger_error($error['DEFAULT_ERROR'], E_USER_ERROR);
+
+}
 ?>
