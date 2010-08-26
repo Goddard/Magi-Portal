@@ -12,11 +12,12 @@ if($_SESSION['logged'] == true && !isset($_REQUEST['Submit']) && !isset($_REQUES
 	$userget = $DB->query("SELECT id FROM users WHERE id='" . $user_id . "'");
 	$usercount = $userget->rowCount();
 
-   if($usercount != 0){
+   if($usercount != 0)
+   {
 
 	   $t_ = array(
 		   'PM_SEND_TITLE' 	      => "Private Message",
-		   'PM_SEND_SUB_TITLE' 	   => "Send a message to a individual user or group.",
+		   'PM_SEND_SUB_TITLE' 	   => "Send a message to an individual user or group.",
 		   'PM_SUBJECT' 	         => "Subject",
 		   'PM_MESSAGE' 	         => "Message",
 		   'USERID'    	         => $user_id,
@@ -74,5 +75,4 @@ if($_SESSION['logged'] == true && !isset($_REQUEST['Submit']) && !isset($_REQUES
 	$TEMPLATE->publish();
 
 }
-
 ?>

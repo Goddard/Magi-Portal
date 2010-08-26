@@ -1,180 +1,708 @@
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
+Time: 24 Aug 10 - 7:09:29 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 212.117.183.163
 ##################################################
 
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
+Time: 24 Aug 10 - 7:09:29 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
 Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 212.117.183.163
 ##################################################
 
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
+Time: 24 Aug 10 - 7:09:29 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
 Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
+Message: Undefined index: number
+IP: 212.117.183.163
 ##################################################
 
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
+Time: 24 Aug 10 - 3:39:36 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 91.201.66.134
 ##################################################
 
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
+Time: 24 Aug 10 - 3:39:36 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
 Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 91.201.66.134
 ##################################################
 
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
+Time: 24 Aug 10 - 3:39:36 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
 Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
+Message: Undefined index: number
+IP: 91.201.66.134
 ##################################################
 
-Time: 23 Aug 10 - 8:36:09 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
+Time: 25 Aug 10 - 2:31:58 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.67.80.146
 ##################################################
 
-Time: 23 Aug 10 - 8:41:19 PM (PDT)
+Time: 25 Aug 10 - 2:31:58 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 95.67.80.146
+##################################################
+
+Time: 25 Aug 10 - 2:31:58 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 95.67.80.146
+##################################################
+
+Time: 25 Aug 10 - 2:50:55 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 91.201.66.34
+##################################################
+
+Time: 25 Aug 10 - 2:50:55 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 91.201.66.34
+##################################################
+
+Time: 25 Aug 10 - 2:50:55 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 91.201.66.34
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 393
+Line: 396
 Code: E_WARNING
 Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:41:46 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:05 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
 File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:07 PM (PDT)
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:28 AM (PDT)
+File: /var/www/kinggoddard/root.php
+Line: 396
+Code: E_WARNING
+Message: session_destroy(): Trying to destroy uninitialized session
+IP: 24.20.253.234
+##################################################
+
+Time: 25 Aug 10 - 6:59:49 AM (PDT)
 File: /var/www/kinggoddard/modules/user/required.php
 Line: 81
 Code: E_NOTICE
@@ -182,7 +710,7 @@ Message: Undefined index: userid
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:07 PM (PDT)
+Time: 25 Aug 10 - 6:59:50 AM (PDT)
 File: /var/www/kinggoddard/modules/user/personalize.php
 Line: 83
 Code: E_NOTICE
@@ -190,523 +718,99 @@ Message: Undefined index: userid
 IP: 24.20.253.234
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
+Time: 25 Aug 10 - 1:00:30 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.168.183.249
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
+Time: 25 Aug 10 - 1:00:30 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
 Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.168.183.249
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
+Time: 25 Aug 10 - 1:00:30 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
 Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
+Message: Undefined index: number
+IP: 95.168.183.249
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
+Time: 25 Aug 10 - 5:25:48 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 94.233.11.40
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
+Time: 25 Aug 10 - 5:25:48 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
 Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 94.233.11.40
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
+Time: 25 Aug 10 - 5:25:48 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
 Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
+Message: Undefined index: number
+IP: 94.233.11.40
 ##################################################
 
-Time: 23 Aug 10 - 8:42:22 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
+Time: 25 Aug 10 - 5:41:36 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.220.97.137
 ##################################################
 
-Time: 23 Aug 10 - 8:42:23 PM (PDT)
-File: /var/www/kinggoddard/modules/user/personalize.php
-Line: 83
+Time: 25 Aug 10 - 5:41:36 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
 Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.220.97.137
 ##################################################
 
-Time: 23 Aug 10 - 8:42:24 PM (PDT)
-File: /var/www/kinggoddard/modules/user/required.php
-Line: 81
+Time: 25 Aug 10 - 5:41:36 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
 Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
+Message: Undefined index: number
+IP: 95.220.97.137
 ##################################################
 
-Time: 23 Aug 10 - 8:42:54 PM (PDT)
-File: /var/www/kinggoddard/modules/user/required.php
-Line: 81
+Time: 25 Aug 10 - 6:00:21 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
 Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.168.183.249
 ##################################################
 
-Time: 23 Aug 10 - 8:42:55 PM (PDT)
-File: /var/www/kinggoddard/modules/user/personalize.php
-Line: 83
+Time: 25 Aug 10 - 6:00:21 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
 Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
+Message: Undefined index: key
+IP: 95.168.183.249
 ##################################################
 
-Time: 23 Aug 10 - 8:43:16 PM (PDT)
-File: /var/www/kinggoddard/modules/user/required.php
-Line: 81
+Time: 25 Aug 10 - 6:00:21 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
 Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:17 PM (PDT)
-File: /var/www/kinggoddard/modules/user/personalize.php
-Line: 83
-Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:29 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:43:37 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:25 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:27 PM (PDT)
-File: /var/www/kinggoddard/modules/user/required.php
-Line: 81
-Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:27 PM (PDT)
-File: /var/www/kinggoddard/modules/user/personalize.php
-Line: 83
-Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:44:29 PM (PDT)
-File: /var/www/kinggoddard/modules/user/required.php
-Line: 81
-Code: E_NOTICE
-Message: Undefined index: userid
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 8:54:56 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.20.253.234
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:39 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 66.235.124.16
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.9.80.79
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 320
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.9.80.79
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.9.80.79
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 321
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.9.80.79
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Undefined variable: configuration
-IP: 24.9.80.79
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 322
-Code: E_NOTICE
-Message: Trying to get property of non-object
-IP: 24.9.80.79
-##################################################
-
-Time: 23 Aug 10 - 9:10:55 PM (PDT)
-File: /var/www/kinggoddard/root.php
-Line: 325
-Code: E_NOTICE
-Message: Undefined variable: ip
-IP: 24.9.80.79
+Message: Undefined index: number
+IP: 95.168.183.249
 ##################################################
 

@@ -309,7 +309,7 @@ if($ip != true)
 ////////////////////////////////////
 // Handle Session's
 ////////////////////////////////////
-function session_default()
+function session_default($configuration, $ip)
 {
 
 	$_SESSION['logged'] 	         = 'false';
@@ -334,7 +334,7 @@ function session_default()
 if(!isset($_SESSION['userlevel']) || !isset($_SESSION['logged']))
 {
 
-   session_default();
+   session_default($configuration, $ip);
 
 }
 

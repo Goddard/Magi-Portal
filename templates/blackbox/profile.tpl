@@ -96,7 +96,7 @@
 			
 			   <span class="menusmall">
 			   
-			      <a href="" target=_new>PM</a>
+			      <a href="{PROFILE_PM}" target=>PM</a>
 			      
 			   </span>
 			   

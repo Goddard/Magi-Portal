@@ -57,7 +57,8 @@ if(is_numeric($_GET['user']))
       'PROFILE_SKYPE'    		=> $skype,
       'PROFILE_URL' 	      	=> $url,
 	   'PROFILE_TEMPLATE' 		=> $usertemplate,	 
-	   'PROFILE_ACTIVITY' 		=> $activitylevel,	
+	   'PROFILE_ACTIVITY' 		=> $activitylevel,
+	   'PROFILE_PM' 		      => "index.php?page=userpanel&user=sendmessage&userid=$id"	
    );
 
    $TEMPLATE->load("profile.tpl");

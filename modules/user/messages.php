@@ -41,7 +41,7 @@ if($_SESSION['uid']!=0 && !isset($_REQUEST['Submit']) && is_numeric($_SESSION['u
 		'MESSAGE_SUBJECT' 	=> $subject,
 		'MESSAGE_BODY' 		=> $message,
 		'MESSAGE_DELETE' 		=> "<a href=\"index.php?page=userpanel&amp;user=messagesdelete&amp;messagesid=".$id."\">" . $lang['delete'] . "</a>",
-		'MESSAGE_REPLY' 		=> "<a href=\"index.php?page=userpanel&amp;user=messagesreply&amp;messagesid=".$id."\">" . $lang['reply'] . "</a>",
+		'MESSAGE_REPLY' 		=> "<a href=\"index.php?page=userpanel&amp;user=sendmessage&amp;userid=".$postid."\">" . $lang['reply'] . "</a>",
 	);
 
 	$TEMPLATE->load("messages.tpl");
