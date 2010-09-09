@@ -95,17 +95,9 @@ if(!isset($_POST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']
 
 		$sql2 = "UPDATE users SET logintime=?, iplog = CONCAT(iplog, ?) WHERE id=? AND iplog NOT LIKE ?";
 		$query2 = $DB->prepare($sql2) or trigger_error($lang_error['UPDATE_ERROR'],E_USER_ERROR);
-      $query2->execute(array($date_time, $ip ."':'", $id, "'%'". $ip ."'%'"));
-
-		$t_ = array(
-			'LOGIN_FORM_TITLE' 		=> $lang['logform'],
-			'USER_CONTROL_PANEL' 	=> "<a href=\"index.php?page=user\">".$lang['usercp']."</a>",
-			'LOGIN_MESSAGE' 		   => $lang['logsuccess']."<meta http-equiv=\"Refresh\" content=\"2; URL=index.php?page=userpanel\">"
-		);
+      $query2->execute(array($date_time, $ip .":", $id, "%". $ip ."%"));
 
       session_unset();
-
-		//set the user session info from the database.
 		session_regenerate_id();
 
 		$_SESSION['logged'] 	         = 'true';
@@ -124,6 +116,12 @@ if(!isset($_POST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']
 		$_SESSION['warnlevel'] 	      = $warnlevel;
 		$_SESSION['avatar'] 	         = $avatar;
 		$_SESSION['activitylevel'] 	= $activitylevel;
+
+		$t_ = array(
+			'LOGIN_FORM_TITLE' 		=> $lang['logform'],
+			'USER_CONTROL_PANEL' 	=> "<a href=\"index.php?page=user\">".$lang['usercp']."</a>",
+			'LOGIN_MESSAGE' 		   => $lang['logsuccess']."<meta http-equiv=\"Refresh\" content=\"2; URL=index.php?page=userpanel\">"
+		);
 
 		$TEMPLATE->load("login_message.tpl");
 		$TEMPLATE->assign($t_);
