@@ -7,7 +7,7 @@ $location = pathinfo(__FILE__, PATHINFO_BASENAME);
 
 $case = array('newsview', 'news', 'scripts', 'scriptview', 'user', 'newsadd', 'newsedit', 'newsdelete', 'configuration',
 'newsprint', 'page', 'pageadd', 'pageedit', 'pagedelete', 'userpanel', 'roster', 'register', 'login', 'contact', 'pageprint', 
-'members', 'error', 'profile'
+'members', 'error', 'profile', 'banned'
 );
 
 if(!isset($_GET['page']) || empty($_GET['page']) || !in_array($_GET['page'], $case))
@@ -87,7 +87,11 @@ switch($_GET['page'])
 		
 	case 'profile':
 		include("modules/user/profile.php");
-		break;		
+		break;
+		
+	case 'banned':
+		include("modules/user/banned.php");
+		break;				
 //guest switch end -
 
 //user switch start +

@@ -75,7 +75,7 @@ if(!isset($_GET['newscategory']))
 		   
 	   }
 	
-	   if($_SESSION['logged']=='true' && preg_match("/\b".$_SESSION['uid']."\b/i", $voters))
+	   if($_SESSION['logged'] == 'true' && preg_match("/\b".$_SESSION['uid']."\b/i", $voters))
 	   {
 	
 	   	$rate_minus    = $rating. " out of ";
@@ -99,7 +99,7 @@ if(!isset($_GET['newscategory']))
 	   
 		$displayname		=	$r["displayname"];
 
-      if($_SESSION['logged']=="true" && $_SESSION['userlevel']>=100 && !isset($_GET['logout']) || $_SESSION['logged']=="true" && !isset($_GET['logout']) && $_SESSION['username']==$displayname)
+      if($_SESSION['logged'] == 'true' && $_SESSION['userlevel'] >= 100 && !isset($_GET['logout']) || $_SESSION['logged'] == 'true' && !isset($_GET['logout']) && $_SESSION['username'] == $displayname)
       {
       
       	$editnews 	   = "<a href=\"index.php?page=newsedit&amp;newsid=".$id."\">" . $lang['edit'] . "</a>";

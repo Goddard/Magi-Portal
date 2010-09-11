@@ -37,9 +37,11 @@ if($_SESSION['userlevel'] == 255 && !isset($_GET['logout']) && !isset($_GET['cle
 	);
 	
 }else{
+      
+      $error_message = "We encountered an error. We apologize for any inconvenience.  An administrator has already been contacted.  Your username, or IP has also been logged to help assist in future errors.";
 
 	$t_ = array(
-		'ERROR_MESSAGE' 		=> "We encountered an error. We apologize for any inconvenience.  An administrator has already been contacted.  Your username, or IP has also been logged to help assist in future errors.",
+		'ERROR_MESSAGE' 		=> $error_message,
 		'ERROR_CLEAR' 			=> ""
 	);
 	

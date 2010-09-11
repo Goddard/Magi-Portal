@@ -55,6 +55,7 @@ date_default_timezone_set($configuration->config_values['application']['timezone
 include(__SITE_PATH."/core/library/error.class.php");
 include(__SITE_PATH."/core/library/template.class.php");
 include(__SITE_PATH."/core/database/db.class.php");
+
 ////////////////////////////////////
 // Classes Loaded - Core
 ////////////////////////////////////
@@ -64,7 +65,7 @@ include(__SITE_PATH."/core/database/db.class.php");
 ////////////////////////////////////
 error_reporting($configuration->config_values['application']['error_reporting']);
 ini_set('display_errors', 1);
-error_reporting(E_ALL);
+
 ////////////////////////////////////
 // Load Application Functions
 ////////////////////////////////////
@@ -73,6 +74,7 @@ function GET_IP()
 
 	if(getenv('HTTP_CLIENT_IP'))
 	{
+	
 		$ip = getenv('HTTP_CLIENT_IP');
 
 	}elseif(getenv('HTTP_X_FORWARDED_FOR'))
@@ -90,7 +92,7 @@ function GET_IP()
 
 		$ip = getenv('HTTP_FORWARDED_FOR');
 
-	}elseif (getenv('HTTP_FORWARDED'))
+	}elseif(getenv('HTTP_FORWARDED'))
 	{
 
 		$ip = getenv('HTTP_FORWARDED');
@@ -107,33 +109,43 @@ function GET_IP()
 function VERIFY_IP($ip)
 {
 
-    if(!empty($ip) && $ip == long2ip(ip2long($ip)))
-    {
+   if(!empty($ip) && $ip == long2ip(ip2long($ip)))
+   {
 
-        $reserved_ips = array(array('0.0.0.0','2.255.255.255'), array('10.0.0.0','10.255.255.255'), array('127.0.0.0','127.255.255.255'), array('169.254.0.0','169.254.255.255'), array('172.16.0.0','172.31.255.255'), array('192.0.2.0','192.0.2.255'), array('192.168.0.0','192.168.255.255'), array('255.255.255.0','255.255.255.255'));
+      $reserved_ips = array(array('0.0.0.0','2.255.255.255'), array('10.0.0.0','10.255.255.255'), array('127.0.0.0','127.255.255.255'), array('169.254.0.0','169.254.255.255'), array('172.16.0.0','172.31.255.255'), array('192.0.2.0','192.0.2.255'), array('192.168.0.0','192.168.255.255'), array('255.255.255.0','255.255.255.255'));
 
-        foreach($reserved_ips as $r)
-        {
+      foreach($reserved_ips as $r)
+      {
 
-            $min = ip2long($r[0]);
-            $max = ip2long($r[1]);
+         $min = ip2long($r[0]);
+         $max = ip2long($r[1]);
 
-            if ((ip2long($ip) >= $min) && (ip2long($ip) <= $max))
-            {
+         if((ip2long($ip) >= $min) && (ip2long($ip) <= $max))
+         {
 
-			return false;
+            return false;
 
-	    	}
+         }
 
-        }
+      }
 
-        return true;
+      return true;
 
-    }
+   }
 
-    return false;
+   return false;
+    
+   if($ip == false)
+   {
+
+      die();
+
+   }
 
 }
+
+$ip = GET_IP();
+VERIFY_IP($ip);
 
 function END_TIMER($start_time)
 {
@@ -162,6 +174,7 @@ function SECURITY($debug, $userlevel)
 
 			foreach($_POST as $key => $val)
 			{
+			
             if($key == 'message')
             {
             
@@ -235,6 +248,7 @@ function SECURITY($debug, $userlevel)
 	}
 
 }
+
 ////////////////////////////////////
 // Set Default Database type
 ////////////////////////////////////
@@ -258,18 +272,44 @@ catch(PDOException $e)
 
 }
 
+////////////////////////////////////
+// Handle Session's
+////////////////////////////////////
+function session_default($configuration, $ip)
+{
 
+	$_SESSION['logged'] 	         = 'false';
+	$_SESSION['uid'] 		         = 0;
+	$_SESSION['username'] 	      = 'Guest';
+	$_SESSION['cookie'] 	         = 0;
+	$_SESSION['remember'] 	      = 'false';
+	$_SESSION['language'] 	      = $configuration->config_values['language']['default_language'];
+	$_SESSION['timezone'] 	      = $configuration->config_values['application']['timezone'];
+	$_SESSION['template'] 	      = $configuration->config_values['template']['default_template'];
+	$_SESSION['userlevel'] 	      = -1;
+	$_SESSION['warnlevel'] 	      = 0;
+	$_SESSION['ip'] 		         = $ip;
+	$_SESSION['activitylevel'] 	= 0;
+	$_SESSION['email'] 			   = NULL;
+	$_SESSION['banned']           = false;
+	
+}
 
 //if no session started start one
-if(!isset($_SESSION['logged']))
+if(session_id() == "" && !isset($_SESSION['logged']))
 {
 
 	session_start();
-	session_regenerate_id();
 
 }
 
-if(isset($_SESSION['logged']) && $_SESSION['logged'] == true && !empty($_SESSION['language']))
+if(!isset($_SESSION['logged']) || empty($_SESSION['logged'])){
+
+   session_default($configuration, $ip);
+
+}
+
+if(isset($_SESSION['logged']) && $_SESSION['logged'] == 'true' && !empty($_SESSION['language']))
 {
 
 	$language = $_SESSION['language'];
@@ -294,54 +334,15 @@ $TEMPLATE = new TEMPLATE("./".$configuration->config_values['template']['templat
 ////////////////////////////////////
 // Define Error Variables - Create Error object
 ////////////////////////////////////
-$error = new error($ip = GET_IP(), $debug = $configuration->config_values['application']['debug'], $email=$configuration->config_values['mail']['admin_mail'], __SITE_PATH.$error_log_file=$configuration->config_values['logging']['error_log_file'], $error_logging=$configuration->config_values['logging']['enable_error_log'], $error_mail=$configuration->config_values['mail']['enable_error_mail'], $db_type=$configuration->config_values['database']['db_type']);
+$error = new error($ip, $debug = $configuration->config_values['application']['debug'], $email=$configuration->config_values['mail']['admin_mail'], __SITE_PATH.$error_log_file=$configuration->config_values['logging']['error_log_file'], $error_logging=$configuration->config_values['logging']['enable_error_log'], $error_mail=$configuration->config_values['mail']['enable_error_mail'], $db_type=$configuration->config_values['database']['db_type']);
 set_error_handler(array(&$error, "handler"));
-
-VERIFY_IP($ip);
-
-if($ip != true)
-{
-
-	die();
-
-}
-
-////////////////////////////////////
-// Handle Session's
-////////////////////////////////////
-function session_default($configuration, $ip)
-{
-
-	$_SESSION['logged'] 	         = 'false';
-	$_SESSION['uid'] 		         = 0;
-	$_SESSION['username'] 	      = 'Guest';
-	$_SESSION['cookie'] 	         = 0;
-	$_SESSION['remember'] 	      = 'false';
-	$_SESSION['language'] 	      = $configuration->config_values['language']['default_language'];
-	$_SESSION['timezone'] 	      = $configuration->config_values['application']['timezone'];
-	$_SESSION['template'] 	      = $configuration->config_values['template']['default_template'];
-	$_SESSION['userlevel'] 	      = -1;
-	$_SESSION['warnlevel'] 	      = 0;
-	$_SESSION['ip'] 		         = $ip;
-	$_SESSION['activitylevel'] 	= 0;
-	$_SESSION['email'] 			   = NULL;
-	
-}
 
 ////////////////////////////////////
 // Begin Session Variable Defaults
 ////////////////////////////////////
-if(!isset($_SESSION['logged']))
-{
-
-   session_default($configuration, $ip);
-
-}
-
 if(isset($_SESSION['valid']) && $_SESSION['valid'] == 'false')
 {
 
-echo "1";
    session_destroy();
    session_unset();
 	header('Location: index.php');
@@ -358,7 +359,6 @@ $location  = NULL;
 $username = $_SESSION['username'];
 $remember = $_SESSION['remember'];
 
-
 //define session timeout time
 $timeout = date("l, F jS Y g:i:s A", strtotime("-" . $configuration->config_values['application']['session_timeout']));
 $timeout_calc = strtotime($timeout);
@@ -366,7 +366,6 @@ $timeout_calc = strtotime($timeout);
 if(isset($_SESSION['logged']) && $_SESSION['logged'] != 'false' && $_SESSION['useragent'] != $_SERVER['HTTP_USER_AGENT'])
 {
 
-echo "2";	
 	session_destroy();
 	trigger_error($lang_error['SECURITY_ERROR'], E_USER_ERROR);
 
@@ -394,9 +393,9 @@ foreach($query_1 as $r)
 
 		$sql_2 = "DELETE FROM sessions WHERE ip='$ip2'";
 		$DB->query($sql_2) or trigger_error($lang_error['DELETE_ERROR'], E_USER_ERROR);
-		
-      session_destroy();
+
       session_unset();
+		session_regenerate_id();
       
 	}
 
@@ -419,7 +418,7 @@ $ipfound = $query_4->rowCount();
 //if none then user is new to website
 if($ipfound == 0)
 {
-	
+
 	$sql_5 = "INSERT INTO sessions (ip, username, time, location)VALUES('$ip', '$username', '$date_time', '$location')";
 	$DB->query($sql_5) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
 
@@ -429,7 +428,7 @@ if($ipfound == 0)
 
 	$sql_6 = "UPDATE sessions SET username='$username', time='$date_time', location='$location' WHERE ip='$ip'";
 	$DB->query($sql_6) or trigger_error($lang_error['UPDATE_ERROR'], E_USER_ERROR);
-	
+
 //if there are more then 2 ips found then something is wrong delete all and insert a fresh row.
 }elseif($ipfound >= 2)
 {
@@ -438,10 +437,27 @@ if($ipfound == 0)
 	$sql_8 = "INSERT INTO sessions (ip, username, time, location)VALUES('$ip', '$username', '$date_time', '$location')";
 	$DB->query($sql_7,$sql_8) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
 
-//dont know what the heck happen
+//dont know what the heck happened
 }else{
-	
-	trigger_error($error['DEFAULT_ERROR'], E_USER_ERROR);
+
+	trigger_error($lang_error['DEFAULT_ERROR'], E_USER_ERROR);
 
 }
+
+$sql_9 = "SELECT * FROM banned WHERE ip='$ip'";
+$query_2 = $DB->query($sql_9) or trigger_error($lang_error['SELECT_ERROR'], E_USER_ERROR);
+
+$countbanned = $query_2->rowCount();
+
+   if($countbanned >= 1)
+   {
+      
+      if($_GET['page'] != "banned")
+      {
+         
+         header('Location: index.php?page=banned');
+         
+      }
+   
+   }
 ?>

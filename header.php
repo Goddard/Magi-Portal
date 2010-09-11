@@ -12,7 +12,7 @@ if($username != $lang['guest'] && !isset($_GET['logout']))
 	$loglink = "<a href=\"index.php?page=login&&logout\" id=\"logoutlink\">" . $lang['logout'] . "</a>";
 	$reglink = $lang['register'];
 		
-	if($_SESSION['userlevel'] >= 254)
+	if(isset($_SESSION['userlevel']) && $_SESSION['userlevel'] >= 254)
 	{
 			
 		include("application/language/".$language."/administrator.lang.php");

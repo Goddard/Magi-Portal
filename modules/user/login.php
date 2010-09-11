@@ -39,7 +39,7 @@ if(!isset($_POST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']
 	$TEMPLATE->load("login.tpl");
 	$TEMPLATE->assign($t_);
 	$TEMPLATE->publish();
-}elseif(isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !empty($_POST['name']) && !empty($_POST['password']) && !isset($_GET['logout']) && $_SESSION['logged']!='true'){
+}elseif(isset($_REQUEST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']) && !empty($_POST['name']) && !empty($_POST['password']) && !isset($_GET['logout']) && $_SESSION['logged'] != 'true'){
 
 	$username = $_POST['name'];
 	$password = md5($_POST['password']);

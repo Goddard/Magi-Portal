@@ -67,8 +67,7 @@ if(is_numeric($_GET['user']))
 
 }else{
 
-   
+   trigger_error($error['DEFAULT_ERROR'], E_USER_ERROR);
 
 }
-
 ?>

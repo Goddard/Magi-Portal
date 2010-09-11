@@ -65,7 +65,7 @@ Class error
 		if($this->debug == 1)
 		{
 			
-			$url = "error.php";
+			$url = "index.php?page=error";
 			echo "<meta http-equiv=\"Refresh\" content=\"0;url=".$url."\">";
 				
 		}
