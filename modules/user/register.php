@@ -57,6 +57,7 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['email'], $_POST['password
    $codename       = $_POST['codename'];
    $email          = $_POST['email'];
    $password       = $_POST['password'];
+   $useragent      = $_SESSION['useragent'];
    $passwordmd5    = md5($password);
    $key            = substr($_SESSION['key'],0,7);
    $number         = $_REQUEST['number'];
@@ -111,9 +112,9 @@ if(!isset($_REQUEST['Submit'], $_POST['name'], $_POST['email'], $_POST['password
 		
 	}
 
-   $sql3 = "INSERT INTO vault (username, displayname, password, passwordmd5, email, creationdate, ip)VALUES(?, ?, ?, ?, ?, ?, ?)";
+   $sql3 = "INSERT INTO vault (username, displayname, password, passwordmd5, email, creationdate, ip, useragent)VALUES(?, ?, ?, ?, ?, ?, ?, ?)";
    $query3 = $DB->prepare($sql3) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);
-   $query3->execute(array($username, $codename, $password, $passwordmd5, $email, $date_time, $ip));
+   $query3->execute(array($username, $codename, $password, $passwordmd5, $email, $date_time, $ip, $useragent));
    
 	$sql4 = "INSERT INTO users (username, displayname, password, email, creationdate, iplog, active, code)VALUES(?, ?, ?, ?, ?, ?, ?, ?)";
 	$query4 = $DB->prepare($sql4) or trigger_error($lang_error['INSERT_ERROR'], E_USER_ERROR);

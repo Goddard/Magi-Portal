@@ -292,6 +292,7 @@ function session_default($configuration, $ip)
 	$_SESSION['activitylevel'] 	= 0;
 	$_SESSION['email'] 			   = NULL;
 	$_SESSION['banned']           = false;
+	$_SESSION['useragent']        = $_SERVER['HTTP_USER_AGENT'];
 	
 }
 

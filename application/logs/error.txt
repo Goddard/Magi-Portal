@@ -142,3 +142,6795 @@ Message: Undefined index: logged
 IP: 24.20.253.234
 ##################################################
 
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:06:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:17:22 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:30:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.84
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:38:25 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:44:21 PM (PDT)
+File: /var/www/kinggoddard/header.php
+Line: 30
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:44:21 PM (PDT)
+File: /var/www/kinggoddard/header.php
+Line: 30
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:44:21 PM (PDT)
+File: /var/www/kinggoddard/modules/administration/error.php
+Line: 7
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:44:21 PM (PDT)
+File: /var/www/kinggoddard/modules/administration/error.php
+Line: 29
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 24.20.253.234
+##################################################
+
+Time: 10 Sep 10 - 7:55:14 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 10 Sep 10 - 7:55:14 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 10 Sep 10 - 7:55:14 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 10 Sep 10 - 7:55:14 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 10 Sep 10 - 7:55:14 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:07:49 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.70.211
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 8:27:55 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.108.150.235
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:01:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:52 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:53 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:53 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 95.168.183.249
+##################################################
+
+Time: 10 Sep 10 - 9:43:53 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 95.168.183.249
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:26:19 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.73
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 3:55:43 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.93
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:13:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 4:45:11 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.214.45.227
+##################################################
+
+Time: 11 Sep 10 - 5:23:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:23:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:23:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:23:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:23:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 176
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:23:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 5:33:57 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.87
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 6:56:28 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 7:29:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.132
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 9:40:04 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.86
+##################################################
+
+Time: 11 Sep 10 - 10:07:29 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:07:29 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:07:29 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:07:29 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:07:29 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:24:30 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:24:30 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:24:30 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:24:30 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:24:30 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:24:30 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 176
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 176
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:26:08 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 10:50:30 AM (PDT)
+File: /var/www/kinggoddard/modules/page/page.php
+Line: 34
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 67.195.112.38
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:52 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:53 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:54 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:22:55 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 178.123.186.252
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:32:37 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.69
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 11:33:09 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.87
+##################################################
+
+Time: 11 Sep 10 - 12:21:06 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:06 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:08 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:21:09 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 11 Sep 10 - 12:39:37 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 12:39:37 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 12:39:37 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 12:39:37 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 12:39:37 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 176
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 12:39:37 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 176
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 12:39:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.108.95
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 1:29:43 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.94.231
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:07 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:09 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:09 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 2:11:09 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 80.79.116.241
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:18:20 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 207.46.195.107
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:29:26 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 89.136.148.25
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:11 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 3:34:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 85.234.36.73
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:29 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:29 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:19:29 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 91.201.66.17
+##################################################
+
+Time: 11 Sep 10 - 4:58:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 4:58:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 4:58:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 4:58:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 4:58:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:26:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.58
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 5:46:40 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 193.47.80.44
+##################################################
+
+Time: 11 Sep 10 - 6:03:35 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 7:26:35 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.122
+##################################################
+
+Time: 11 Sep 10 - 8:11:14 PM (PDT)
+File: /var/www/kinggoddard/modules/page/page.php
+Line: 34
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:27:28 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:28:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/messages.php
+Line: 39
+Code: E_NOTICE
+Message: Undefined variable: displayname
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:44:09 PM (PDT)
+File: /var/www/kinggoddard/header.php
+Line: 30
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:44:09 PM (PDT)
+File: /var/www/kinggoddard/header.php
+Line: 30
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:44:09 PM (PDT)
+File: /var/www/kinggoddard/modules/user/userpanel.php
+Line: 4
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 8:44:09 PM (PDT)
+File: /var/www/kinggoddard/modules/user/userpanel.php
+Line: 57
+Code: E_NOTICE
+Message: Undefined variable: refersh
+IP: 24.20.253.234
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:01:39 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.193
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 9:26:21 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.84
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:38 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 26
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:39 PM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:40 PM (PDT)
+File: /var/www/kinggoddard/modules/user/login.php
+Line: 17
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:40 PM (PDT)
+File: /var/www/kinggoddard/modules/user/login.php
+Line: 17
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:10:41 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.246
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 10:41:53 PM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 213.5.71.169
+##################################################
+
+Time: 11 Sep 10 - 11:07:46 PM (PDT)
+File: /var/www/kinggoddard/modules/page/page.php
+Line: 34
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 11:52:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 11:52:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 11:52:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 11:52:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 11 Sep 10 - 11:52:34 PM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 12:57:31 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 91.212.226.91
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 1:38:58 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.79
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:32:22 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 88.131.106.22
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 3:55:33 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.111.151
+##################################################
+
+Time: 12 Sep 10 - 4:30:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 11
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 4:30:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 69
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 4:30:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 4:30:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 91
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 4:30:46 AM (PDT)
+File: /var/www/kinggoddard/modules/news/newsview.php
+Line: 224
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 4:49:07 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 4:49:07 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 4:49:07 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:47 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:49 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 53
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:49 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 61
+Code: E_NOTICE
+Message: Undefined index: key
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 5:48:49 AM (PDT)
+File: /var/www/kinggoddard/modules/user/register.php
+Line: 62
+Code: E_NOTICE
+Message: Undefined index: number
+IP: 188.231.170.137
+##################################################
+
+Time: 12 Sep 10 - 6:14:18 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 6:14:18 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 6:14:18 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 6:14:18 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 6:14:18 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 6:14:18 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 67.195.112.38
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:29:12 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 123.125.66.130
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 6:59:24 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.235.124.16
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 7:28:56 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 220.181.7.75
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 8:51:49 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 208.75.148.25
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:13:38 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 66.249.71.206
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 9:55:21 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 78
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:23:59 AM (PDT)
+File: /var/www/kinggoddard/modules/news/news.php
+Line: 102
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:44:48 AM (PDT)
+File: /var/www/kinggoddard/header.php
+Line: 30
+Code: E_NOTICE
+Message: Undefined index: userlevel
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:44:48 AM (PDT)
+File: /var/www/kinggoddard/header.php
+Line: 30
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:44:48 AM (PDT)
+File: /var/www/kinggoddard/modules/administration/maintenance.php
+Line: 7
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
+Time: 12 Sep 10 - 10:44:48 AM (PDT)
+File: /var/www/kinggoddard/modules/administration/maintenance.php
+Line: 23
+Code: E_NOTICE
+Message: Undefined index: logged
+IP: 24.20.253.234
+##################################################
+
