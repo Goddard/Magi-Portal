@@ -16,6 +16,7 @@ if($gzip)
 }
 
 $t_ = array(
+	'TEMPLATE_PATH'	=> $configuration->config_values['template']['template_dir']."/".$configuration->config_values['template']['default_template'],
 	'PAGE_SIZE' 	=> substr ($page_size, 0, 10) . "kb",
 	'COPYRIGHT' 	=> $configuration->config_values['website']['copy'],
 	'LOAD_TIME'	   => END_TIMER($start_time) . "sec",

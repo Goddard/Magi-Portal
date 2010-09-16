@@ -1,7 +1,6 @@
 <?php
 defined('LOAD_SAFE') or die('Server Error');
 
-//start page load timer
 $start_time = microtime();
 
 $gzip = ob_gzhandler($buffer, 1);
@@ -18,20 +17,12 @@ if($gzip)
 
 }
 
-////////////////////////////////////
-//  Checks PHP version and makes sure its atleast 5.1.0
-////////////////////////////////////
 if(version_compare(phpversion(), '5.1.0', '<') == true)
 {
 
 	die("PHP5 = false : PHP5 required");
 
 }
-
-////////////////////////////////////
-//  Set system time
-////////////////////////////////////
-$date_time = date("l, F jS Y g:i:s A");
 
 ////////////////////////////////////
 // Define root directory
@@ -45,6 +36,11 @@ include(__SITE_PATH."/core/library/config.class.php");
 $configuration = configuration::getInstance();
 
 ////////////////////////////////////
+//  Set system time
+////////////////////////////////////
+$date_time = date($configuration->config_values['application']['date_format']);
+
+////////////////////////////////////
 // Set Time Zone
 ////////////////////////////////////
 date_default_timezone_set($configuration->config_values['application']['timezone']);
@@ -55,10 +51,6 @@ date_default_timezone_set($configuration->config_values['application']['timezone
 include(__SITE_PATH."/core/library/error.class.php");
 include(__SITE_PATH."/core/library/template.class.php");
 include(__SITE_PATH."/core/database/db.class.php");
-
-////////////////////////////////////
-// Classes Loaded - Core
-////////////////////////////////////
 
 ////////////////////////////////////
 // turn off auto error reporting doing our own.
@@ -161,7 +153,7 @@ return $execution_time;
 
 }
 
-function SECURITY($debug, $userlevel)
+function SECURITY($debug, $userlevel, $censor)
 {
 
 	if((count($_POST)!=0) || (count($_GET)!=0))
@@ -182,7 +174,7 @@ function SECURITY($debug, $userlevel)
                $code->useShorthand(false);
                $code->makeClickable(true);
                $code->setupGeshi("use_css = false");
-               //$code->addCensored(array('shit'));
+               $code->addCensored(array($censor));
                $val = $code->parse(true);
                
             }
@@ -272,9 +264,6 @@ catch(PDOException $e)
 
 }
 
-////////////////////////////////////
-// Handle Session's
-////////////////////////////////////
 function session_default($configuration, $ip)
 {
 
@@ -304,7 +293,8 @@ if(session_id() == "" && !isset($_SESSION['logged']))
 
 }
 
-if(!isset($_SESSION['logged']) || empty($_SESSION['logged'])){
+if(!isset($_SESSION['logged']) || empty($_SESSION['logged']))
+{
 
    session_default($configuration, $ip);
 
@@ -372,7 +362,7 @@ if(isset($_SESSION['logged']) && $_SESSION['logged'] != 'false' && $_SESSION['us
 
 }
 
-SECURITY($configuration->config_values['application']['debug'], $_SESSION['userlevel']);
+SECURITY($configuration->config_values['application']['debug'], $_SESSION['userlevel'], $configuration->config_values['permissions']['censor']);
 
 $sql_1 = "SELECT * FROM sessions";
 $query_1 = $DB->query($sql_1) or trigger_error($lang_error['SELECT_ERROR'], E_USER_ERROR);
