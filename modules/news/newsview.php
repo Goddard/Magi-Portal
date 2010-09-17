@@ -157,7 +157,7 @@ if(!isset($_POST['message'], $_REQUEST['Submit'], $_POST['referenceid']) && is_n
 		'PRINT' 		   => "<a href=\"?page=newsprint&amp;newsid=".$id."\">".$lang['print']."</a>",
 		'MESSAGE' 		=> $message,
 		'DATE' 			=> $date,
-		'CATEGORY_PIC' => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/" . $categorypicture ."\">",
+		'CATEGORY_PIC' => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/category/" . $categorypicture ."\">",
 		'AUTHOR' 		=> $displayname
 	);
 

@@ -21,6 +21,7 @@ if($username != $lang['guest'] && !isset($_GET['logout']))
 		<option selected value=\"index.php\">---------" . $lang['adminpanel'] . "---------</option>
 		<option value=\"index.php?page=newsadd\"> - " . $lang['addnews'] . "</option>
 		<option value=\"index.php?page=pageadd\"> - " . $lang['addpage'] . "</option>
+		<option value=\"index.php?page=categoryadd\"> - " . $lang['addcategory'] . "</option>
 		<option value=\"index.php?page=maintenance\"> - " . $lang['maintenance'] . "</option>
 		<option value=\"index.php?page=configuration\"> - " . $lang['configoptions'] . "</option>
 		<option value=\"index.php?page=error\"> - " . $lang['viewerrorlog'] . "</option>

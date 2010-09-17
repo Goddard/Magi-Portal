@@ -372,7 +372,7 @@ $countusers = $query_1->rowCount();
 foreach($query_1 as $r)
 {
 
-	$ip2			   =	$r['ip'];
+	$ip2			=	$r['ip'];
 	$username2		=	$r['username'];
   	$usertime		=	$r['time'];
 	$stay_logged	=	$r['logged'];

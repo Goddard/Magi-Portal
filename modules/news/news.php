@@ -29,7 +29,7 @@ if(!isset($_GET['newscategory']))
 	   $t_ = array(
 		   'TOP_SUBCATEGORY' 		         => "<a href=\"?page=news&amp;newscategory=$topcategory\">$topcategoryname</a>",
 		   'TOP_SUBCATEGORY_DESCRIPTION' 	=> $topcategorydescription,
-		   'TOP_SUBCATEGORY_PICTURE' 	      => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/" . $topcategorypicture ."\">"
+		   'TOP_SUBCATEGORY_PICTURE' 	      => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/category/" . $topcategorypicture ."\">"
 	   );
 
 	   $TEMPLATE->load("newssub.tpl");
@@ -133,28 +133,28 @@ if(!isset($_GET['newscategory']))
          foreach($query4 as $r)
 			{
 			
-				$subcategoryname		   =	$r["name"];
-				$subcategorypicture		=	$r["picture"];
+				$subcategoryname	=	$r["name"];
+				$subcategorypicture	=	$r["picture"];
 				
 			}
 
 	      $t_ = array(
-		      'ID'	 		         => $id,
-		      'EDIT'	 		      => $editnews,
+		      'ID'	 		      => $id,
+		      'EDIT'	 		  => $editnews,
 		      'DELETE' 		      => $deletenews,
-		      'TITLE' 		         => $title,
-		      'RATE_MINUS' 		   => $rate_minus,
-		      'RATE_PLUS' 		   => $rate_plus,
+		      'TITLE' 		      => $title,
+		      'RATE_MINUS' 		  => $rate_minus,
+		      'RATE_PLUS' 		  => $rate_plus,
 		      'RATING' 		      => $rating,
-		      'CATEGORY' 		      => "<a href=\"?page=news&amp;newscategory=$category\">$categoryname</a>",
-		      'SUBCATEGORY' 		   => "<a href=\"?page=news&amp;newscategory=$subcategoryid\">$subcategoryname</a>",
-		      'PRINT' 		         => "<a href=\"?page=newsprint&amp;newsid=" . $id . "\">".$lang['print']."</a>",
-		      'MESSAGE' 		      => $message,
-		      'DATE' 			      => $date,
-		      'COMMENT_COUNT' 	   => "<a href=\"?page=newsview&amp;newsid=$id\">".$lang['comment']."(" . $commentcount . ")</a>",
+		      'CATEGORY' 		  => "<a href=\"?page=news&amp;newscategory=$category\">$categoryname</a>",
+		      'SUBCATEGORY' 	  => "<a href=\"?page=news&amp;newscategory=$subcategoryid\">$subcategoryname</a>",
+		      'PRINT' 		      => "<a href=\"?page=newsprint&amp;newsid=" . $id . "\">".$lang['print']."</a>",
+		      'MESSAGE' 		  => $message,
+		      'DATE' 			  => $date,
+		      'COMMENT_COUNT' 	  => "<a href=\"?page=newsview&amp;newsid=$id\">".$lang['comment']."(" . $commentcount . ")</a>",
 		      'AUTHOR' 		      => $displayname,
-		      'CATEGORY_PIC' 		=> "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/" . $categorypicture ."\">",
-		      'FACEBOOK_SITE_URL'	=> $configuration->config_values['website']['url'] . "?page=newsview&newsid=" . $id
+		      'CATEGORY_PIC' 	  => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/category/" . $categorypicture ."\">",
+		      'FACEBOOK_SITE_URL' => $configuration->config_values['website']['url'] . "?page=newsview&newsid=" . $id
 	      );
 
 	      $TEMPLATE->load("news.tpl");
