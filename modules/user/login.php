@@ -158,6 +158,4 @@ if(!isset($_POST['Submit'], $_POST['name'], $_POST['password'], $_POST['number']
 	$TEMPLATE->publish();
 
 }
-
-	include("footer.php");
 ?>
