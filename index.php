@@ -7,7 +7,7 @@ $location = pathinfo(__FILE__, PATHINFO_BASENAME);
 
 $case = array('newsview', 'news', 'scripts', 'scriptview', 'user', 'newsadd', 'newsedit', 'newsdelete', 'configuration',
 'newsprint', 'page', 'pageadd', 'pageedit', 'pagedelete', 'userpanel', 'roster', 'register', 'login', 'contact', 'pageprint', 
-'members', 'error', 'profile', 'banned', 'maintenance', 'categoryadd'
+'members', 'error', 'profile', 'banned', 'maintenance', 'categoryadd', 'banadd'
 );
 
 if(!isset($_GET['page']) || empty($_GET['page']) || !in_array($_GET['page'], $case))
@@ -128,6 +128,10 @@ switch($_GET['page'])
 		
 	case 'categoryadd':
 		include("modules/category/categoryadd.php");
+		break;
+		
+	case 'banadd':
+		include("modules/user/banadd.php");
 		break;		
 //mod switch end -
 

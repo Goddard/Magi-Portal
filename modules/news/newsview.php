@@ -25,35 +25,35 @@ if(isset($_REQUEST['Submit']) && !isset($_GET['newsid']) || !is_numeric($_GET['n
 if(!isset($_POST['message'], $_REQUEST['Submit'], $_POST['referenceid']) && is_numeric($_GET['newsid']))
 {
 	
-	$news_id = $_GET['newsid'];	
-
+	$news_id = $_GET['newsid'];
+	
 	$query1 = $DB->query("SELECT * FROM news WHERE id=$news_id");
-   $newsfound = $query1->rowCount();
-   
-   if($newsfound==1)
-   {
+	$newsfound = $query1->rowCount();
+	
+	if($newsfound==1)
+	{
 	
 	   foreach($query1 as $r)
 	   {
 	   
-		   $id		      =	$r["id"];
+		   $id		       =	$r["id"];
 		   $title		   =	$r["title"];
 		   $category	   =	$r["category"];
-		   $message	      =	$r["message"];
-		   $date		      =	$r["date"];
+		   $message	       =	$r["message"];
+		   $date		   =	$r["date"];
 		   $author		   =	$r["author"];
 		   $rating		   =	$r["rating"];
 		   $rateoutof	   =	$r["rateoutof"];
-		   $commentable	=	$r["commentable"];
+		   $commentable	   =	$r["commentable"];
 		   $voters		   =	$r["voters"];
 		   $views		   =	$r["views"];
 		   
-	   }
+	}
 
 	$views++;
 
 	$sql1 = "UPDATE news SET views='$views' WHERE id='$id'";
-		$query2 = $DB->query($sql1) or trigger_error($lang_error['UPDATE_ERROR'], E_USER_ERROR);
+	$query2 = $DB->query($sql1) or trigger_error($lang_error['UPDATE_ERROR'], E_USER_ERROR);
 
 	if($rating > 0)
 	{
@@ -132,7 +132,7 @@ if(!isset($_POST['message'], $_REQUEST['Submit'], $_POST['referenceid']) && is_n
 
 	}
 
-	if($commentable==1)
+	if($commentable == 1)
 	{
 	
 		$comments = $lang['comments'];
@@ -144,20 +144,20 @@ if(!isset($_POST['message'], $_REQUEST['Submit'], $_POST['referenceid']) && is_n
 	}
 
 	$t_ = array(
-		'ID'	 		   => $id,
+		'ID'	 		=> $id,
 		'EDIT'	 		=> $editnews,
 		'DELETE' 		=> $deletenews,
 		'COMMENTS' 		=> $comments,
-		'TITLE' 		   => $title,
+		'TITLE' 		=> $title,
 		'RATE_MINUS' 	=> $rate_minus,
 		'RATE_PLUS' 	=> $rate_plus,
 		'RATING' 		=> $rating,
 		'CATEGORY' 		=> "<a href=\"?page=news&amp;newscategory=$category\">$categoryname</a>",
 		'SUBCATEGORY' 	=> "<a href=\"?page=news&amp;newscategory=$subcategory\">$subcategoryname</a>",
-		'PRINT' 		   => "<a href=\"?page=newsprint&amp;newsid=".$id."\">".$lang['print']."</a>",
+		'PRINT' 		=> "<a href=\"?page=newsprint&amp;newsid=".$id."\">".$lang['print']."</a>",
 		'MESSAGE' 		=> $message,
 		'DATE' 			=> $date,
-		'CATEGORY_PIC' => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/category/" . $categorypicture ."\">",
+		'CATEGORY_PIC'  => "<img src=\"./" . $configuration->config_values['template']['template_dir'] . "/" .$configuration->config_values['template']['default_template'] . "/img/category/" . $categorypicture ."\">",
 		'AUTHOR' 		=> $displayname
 	);
 

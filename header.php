@@ -22,6 +22,7 @@ if($username != $lang['guest'] && !isset($_GET['logout']))
 		<option value=\"index.php?page=newsadd\"> - " . $lang['addnews'] . "</option>
 		<option value=\"index.php?page=pageadd\"> - " . $lang['addpage'] . "</option>
 		<option value=\"index.php?page=categoryadd\"> - " . $lang['addcategory'] . "</option>
+		<option value=\"index.php?page=banadd\"> - " . $lang['banned'] . "</option>
 		<option value=\"index.php?page=maintenance\"> - " . $lang['maintenance'] . "</option>
 		<option value=\"index.php?page=configuration\"> - " . $lang['configoptions'] . "</option>
 		<option value=\"index.php?page=error\"> - " . $lang['viewerrorlog'] . "</option>
@@ -48,12 +49,12 @@ if($username != $lang['guest'] && !isset($_GET['logout']))
 
 //assign header template variables
 $t_ = array(
-	'TEMPLATE_PATH'	=> $configuration->config_values['template']['template_dir']."/".$configuration->config_values['template']['default_template'],
+	'TEMPLATE_PATH'		=> $configuration->config_values['template']['template_dir']."/".$configuration->config_values['template']['default_template'],
 	'CODENAME' 			=> $username,
 	'LOGLINK' 			=> $loglink,
 	'REGLINK' 			=> $reglink,
 	'USER_COUNT' 		=> $countusers,
-	'TITLE' 			   => $configuration->config_values['website']['title'],
+	'TITLE' 			=> $configuration->config_values['website']['title'],
 	'SLOGAN' 			=> $configuration->config_values['website']['slogan'],
 	'DESCRIPTION' 		=> $configuration->config_values['website']['description'],
 	'KEYWORDS' 			=> $configuration->config_values['website']['keywords'],
